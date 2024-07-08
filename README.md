@@ -3,4 +3,5 @@ An interactive excel dashboard created. I have created an excel dashboard using 
 1. Most of the voters shopping habits were not influenced by social media,
 2. Of those who have been influenced Instagram has got the highest votes, followed by Facebook.
 3. Female genders shopping habits were influenced more compared to the male gender.
+   
 https://data.world/nishagupta/analysis-of-social-media-influence-on-shopping-trends/workspace/file?filename=WhatsgoodlyData-6.xlsx
